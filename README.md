@@ -1,4 +1,4 @@
-# fairness-variance
+# Fairness-Variance
 
 Studying model uncertainty and instability for different demographic groups.
 
@@ -12,7 +12,6 @@ Studying model uncertainty and instability for different demographic groups.
 * `notebooks` folder includes Jupyter notebooks used for all experiments. It has the following subfolders:
   * `notebooks/diff_fairness_interventions_exp` contains notebooks for the experiment with different fairness interventions.
   * `notebooks/diff_train_set_sizes_exp` contains notebooks for the experiment with different train set sizes and in-domain / out-of-domain settings.
-  * `notebooks/mult_repair_levels_exp` contains notebooks for the experiment with different repair levels for Disparate Impact Remover.
   * `notebooks/visualizations_for_all_datasets` contains notebooks with visualizations for all experiments aggregated over all datasets and model types.
 
 
