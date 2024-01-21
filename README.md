@@ -2,7 +2,6 @@
 
 Studying model uncertainty and instability for different demographic groups.
 
-
 ## Structure of the repo
 
 * `configs` folder includes all general configurations used for experiments.
