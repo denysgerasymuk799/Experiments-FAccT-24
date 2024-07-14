@@ -1,6 +1,6 @@
 # Fairness-Variance
 
-Studying model uncertainty and instability for different demographic groups.
+Studying model uncertainty and instability for different demographic groups. TEST!!!
 
 ## Structure of the repo
 
